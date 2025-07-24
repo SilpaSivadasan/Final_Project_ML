@@ -12,7 +12,7 @@ To develop a predictive model using customer data that can classify whether a cu
 
 ## 🧩 Dataset Overview
 
-- **Source**: UCI Bank Marketing Dataset
+- **Source**: UCI Bank Marketing Dataset (bank csv.csv)
 - **Target Variable**: `subscribed` (yes/no)
 - **Features**:
   - Personal: `age`, `job`, `marital`, `education`
