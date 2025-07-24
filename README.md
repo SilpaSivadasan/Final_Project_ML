@@ -12,7 +12,7 @@ To develop a predictive model using customer data that can classify whether a cu
 
 ## 🧩 Dataset Overview
 
-- **Source**: UCI Bank Marketing Dataset (bank csv.csv)
+- **Source**:[ UCI Bank Marketing Dataset (bank csv.csv)](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 - **Target Variable**: `subscribed` (yes/no)
 - **Features**:
   - Personal: `age`, `job`, `marital`, `education`
@@ -74,7 +74,7 @@ Random Forest performed better than Logistic Regression and is the recommended m
 
 - `Final_Project.ipynb` – Complete notebook with cleaning, visualization, model building, and evaluation
 - `README.md` – This file
-- 'bank csv.csv' - datasourec
+- 'bankcsv.csv' - csv file
 
 ---
 
