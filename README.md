@@ -74,6 +74,7 @@ Random Forest performed better than Logistic Regression and is the recommended m
 
 - `Final_Project.ipynb` – Complete notebook with cleaning, visualization, model building, and evaluation
 - `README.md` – This file
+- 'bank csv.csv' - datasourec
 
 ---
 
